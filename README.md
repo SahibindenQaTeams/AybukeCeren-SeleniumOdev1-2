@@ -1,7 +1,7 @@
 # AybukeCeren-SeleniumOdev1-2
 <sub> 1. ve 2. ödev SeleniumPratice-One 'ın içindedir.</sub>
 <sub> Individual ve IndividualCSS 1. ödevin classları. Corporate ve CorporateCSS 2. ödevin classları.</sub>
-<sub> Sonu CSS ile biten class isimleri ödevlerin cssSelector ile ilgili olan kısımlarının kodunu taşıyor.</sub>
+<sub> Sonu CSS ile biten class isimleri ödevlerin cssSelector ile ilgili olan kısımlarının kodunu içeriyor.</sub>
 
 ## 1. Ödevin kod açıklamaları:
 <sup> Bu ödevde kullanıcının dolduracağı 4 tane alan var.(isim, soyisim, mail, şifre) </sup>
